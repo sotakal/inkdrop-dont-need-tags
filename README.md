@@ -1,2 +1,2 @@
-# inkdrop-dont-need-tags
-If you don't need tags in Inkdrop, this plugin will hide them
+# (I) don't need Tags
+Make Inkdrop more minimal by hiding the tags functionality if you don't use it.
