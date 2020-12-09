@@ -1,7 +1,7 @@
 {
   "name": "dont-need-tags",
   "main": "./lib/dont-need-tags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make Inkdrop more minimalist by hiding tags if you don't need them.",
   "keywords": [],
   "repository": "https://github.com/sotakal/inkdrop-dont-need-tags",
