@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "If you don't need tags in Inkdrop, this plugin will hide them.",
   "keywords": [],
-  "repository": "https://github.com/sotakal/inkdrop-dont-need-status",
+  "repository": "https://github.com/sotakal/inkdrop-dont-need-tags",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
