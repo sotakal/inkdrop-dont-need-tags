@@ -1,0 +1,13 @@
+{
+  "name": "dont-need-tags",
+  "main": "./lib/dont-need-tags",
+  "version": "0.0.0",
+  "description": "If you don't need tags in Inkdrop, this plugin will hide them.",
+  "keywords": [],
+  "repository": "https://github.com/sotakal/dont-need-status",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {}
+}
